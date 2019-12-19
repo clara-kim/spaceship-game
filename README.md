@@ -9,4 +9,4 @@ Graphics were implemented using the Python Turtle.
 
 Scores are saved in a separate file.
 
-To run the game. run the spaceship_game.py module.
+To run the game, run the spaceship_game.py module.
