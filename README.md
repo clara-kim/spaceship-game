@@ -3,7 +3,7 @@ An implementation of the classic Hangman game, but with a spaceship instead of a
 
 The game was completed as an assignment for an Intensive Foundations of Computer Science course (Fall 2018).
 
-![Spaceship Game Screenshot](https://github.com/kimclar/spaceship-game/spaceship_game_example.PNG)
+![Spaceship Game Screenshot](https://github.com/kimclar/spaceship-game/blob/master/spaceship_game_example.PNG)
 
 Graphics were implemented using the Python Turtle.
 
