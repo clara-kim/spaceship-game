@@ -1,7 +1,7 @@
 ### Description
 An implementation of the classic Hangman game, but with a spaceship instead of a hanged man.
 
-The game was completed as an assignment for an Intensive Foundations of Computer Science course (Fall 2018).
+The game was completed as an assignment for a Foundations of CS course (Fall 2018).
 
 ![Spaceship Game Screenshot](https://github.com/kimclar/spaceship-game/blob/master/spaceship_game_example.PNG)
 
